@@ -1,10 +1,10 @@
-100/100 (dated 2023/06/17).
+# 100/100 (dated 2023/06/17).
 
 "/05" serves as the final practice folder.
 
-Q. How to debug the nc command?
+# Q. How to debug the nc command?
 
-Open three terminals.
+A. Open three terminals.
 
 In the first terminal, execute the command "./a.out 8080".
 
